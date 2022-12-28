@@ -1948,7 +1948,7 @@ white-space: nowrap;
   color: #fff;
   background: rgb(17, 17, 17);
   cursor: pointer;
-  position: relative;
+  position: sticky;
   margin-left: 1rem;
   z-index: 0;
   border-radius: 10px;
