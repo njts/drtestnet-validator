@@ -93,7 +93,7 @@ white-space: nowrap;
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: px;
+  margin-top: 1px;
   background: rgba(255, 255, 255, 0.1);
   
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
@@ -106,9 +106,9 @@ white-space: nowrap;
   text-align: center;
   overflow: hidden;
   color: white;
-  font-weight: 900
   margin 2px;
-  font-weight: 900
+  font-weight: 900;
+  max
 
 }
 #brand span {
@@ -117,8 +117,8 @@ white-space: nowrap;
   letter-spacing: 0;
   transition: 0.55s ease-out;
   color: purple;
-  font-weight: 800
-  text-shadow: #FC0 1px 0 10px;
+  font-weight: 900;
+
 }
 
 .scrolling-down span {
@@ -1941,8 +1941,8 @@ white-space: nowrap;
 
 
 .glow-on-hover {
-  width: 200px;
-  height: 45px;
+  width: 149px;
+  height: 31px;
   border: none;
   outline: none;
   color: #fff;
@@ -1952,6 +1952,7 @@ white-space: nowrap;
   margin-left: 10%;
   z-index: 0;
   border-radius: 10px;
+  font-size: 50%;
 }
 
 .glow-on-hover:before {
