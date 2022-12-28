@@ -93,7 +93,7 @@ white-space: nowrap;
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 1px;
+  margin-top: 0px;
   background: rgba(255, 255, 255, 0.1);
   
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
@@ -106,7 +106,7 @@ white-space: nowrap;
   text-align: center;
   overflow: hidden;
   color: white;
-  margin 2px;
+  margin 0px;
   font-weight: 900;
   max
 
