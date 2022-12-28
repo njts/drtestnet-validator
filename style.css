@@ -22,22 +22,23 @@ section {
   flex-direction: row;
   margin: auto;
   text-align: center;
-white-space: nowrap;
+  white-space: nowrap;
     padding: 0.3rem;
 }
 
-.title{position:fixed;top: 50%;}
+.title{position:fixed;top: 30%;}
 .title2,.title3{mix-blend-mode:difference}
 .title,.title2,.title3 {
   text-align: center;
   left: 0;
   right: 0;
-  margin: 4px;
+  margin: 40px;
   color: white;
   font-size: clamp(0.8rem, 10vw, 6rem);
   z-index: 1;
   font: 1.5em/1.6 Arial, sans-serif;
   font-weight: 900;
+  font-size: 50px;
 }
 
 
@@ -1945,6 +1946,7 @@ white-space: nowrap;
   color: #fff;
   background: rgb(17, 17, 17);
   cursor: pointer;
+  position: sticky;
   z-index: 0;
   border-radius: 10px;
   font-size: 50%;
