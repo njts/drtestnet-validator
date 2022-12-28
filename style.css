@@ -1949,7 +1949,7 @@ white-space: nowrap;
   background: rgb(17, 17, 17);
   cursor: pointer;
   position: relative;
-  margin-left: 10%;
+  margin-left: 1rem;
   z-index: 0;
   border-radius: 10px;
   font-size: 50%;
